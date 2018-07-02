@@ -17,14 +17,14 @@ bigimg: /img/00093u_dark.jpg
 		- [Github.com](https://github.com/) and its [main features](../day1_github/)
 * **13.00-14.00** *Lunch break*
 * **14.00-16.00**: *Maxim Romanov*. Text analysis - Regular Expressions
-	- Regular Expressions Practicum
+	- Regular Expressions Practicum (*files in your cloned repository*)
 	- Complex Example: [Chronological Coverage of an Arabic corpus](https://maximromanov.github.io/2016/03-29.html)
 * **16.00-16.30** *Break*
 * **16.30-18.00**: *Maxim Romanov*. Text analysis - Simple Scripting in Python
 	- Preprocessing Arabic texts;
 	- Keywords in Context (KWIC);
-		- combining regular expressions and simple scripting; saving results;
-		- *Off-the-shelf* solution: Antconc tools;
+		- combining regular expressions and simple scripting, saving results;
+		- *Off-the-shelf* solution: [Antconc](http://www.laurenceanthony.net/software/antconc/);
 	- Frequency Lists;
 		- generating frequency lists: step-by-step explanations;
 	- Usage of Frequency Lists;
