@@ -1,4 +1,4 @@
-Amenah Fairouz Abdulkarim
+﻿Amenah Fairouz Abdulkarim
 Anthony T. Quickel
 Christian Mauder
 Konrad Hirschler
@@ -9,7 +9,7 @@ Karima Benaicha
 Kate Tuley
 Meia Walravens
 Gowaart Van Den Bossche
-Shuaib Ally
+Shuaib Ally, University of Toronto
 Stephanie Luescher
 Víctor De Castro León
 Vincent Chen
